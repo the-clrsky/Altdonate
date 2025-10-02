@@ -1,13 +1,13 @@
 {
     "versionCode": 4,
-    "versionName": "4.2",
+    "versionName": "4.1",
     "apkUrl": "https://github.com/the-clrsky/Altdonate/releases/download/v4.1/Altdonate_v4.1.apk",
     "releaseNotes": [
       "New: 'Skip this version' option in update prompt",
       "Misc stability improvements"
     ],
     "minSupportedVersionCode": 3,
-    "signatureSha256": "cea83ed763e905a5fbc22941794e5372e2a7d556c4547baa12427757fc9c0412",
+    "signatureSha256": "cea83ed763e905a5fbc22941794e5372e2a7d556c4547baa12427757fc9c041a",
     "releasedAt": "2025-08-25T11:06:00Z"
   }
   
